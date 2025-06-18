@@ -17,10 +17,10 @@
       "id": "3c64096f284f48ec937254efea738d5e"
     }
   ]
-  "routes": [
+  "route": 
     {
       "pattern": "mindslugs.io",
       "custom_domain": true
     }
-  ]
+  
 }
